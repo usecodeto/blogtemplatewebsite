@@ -1,0 +1,45 @@
+.contact-card {
+
+  background-color: rgb(173, 224, 188);
+  margin: auto;
+  height: 81vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+}
+
+.contact-form {
+  margin: auto;
+
+}
+
+.contact-form h1 {
+  text-align: center;
+}
+
+.form-box1 {
+  margin: 3px;
+  padding: 6px;
+  width: 25vw;
+  height: 5vh;
+  border: 4px solid rgba(20, 236, 247, 0.862);
+  font-size: 18px;
+}
+
+.form-box2 {
+  margin: 3px;
+  padding: 6px;
+  width: 51.8vw;
+  height: 5vh;
+  border: 4px solid rgba(20, 236, 247, 0.862);
+font-size: 18px;
+}
+
+.form-box3 {
+  margin: 3px;
+  padding: 6px;
+  width: 51.8vw;
+  border: 4px solid rgba(20, 236, 247, 0.862);
+font-size: 18px;
+}

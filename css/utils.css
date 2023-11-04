@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Makasar&family=Nunito:wght@300;400&family=Oxygen&family=Pangolin&family=Playfair+Display:ital@0;1&family=Ysabeau+SC:wght@300&display=swap');
+.f1{
+    font-family: 'Pangolin', cursive;
+}
+.f2{
+    font-family: 'Noto Serif Makasar', serif;
+}
+.f3{
+    font-family: 'Nunito', sans-serif;   
+}
+.f4{
+    font-family: 'Oxygen', sans-serif;
+}
+.f5{
+    font-family: 'Pangolin', cursive;  
+}
+.f6{
+    font-family: 'Playfair Display', serif;
+}
+.f7{
+    font-family: 'Ysabeau SC', sans-serif;
+}
+.width80{
+    max-width: 80%;
+}
+.width60{
+    max-width: 60%;
+}
+.width40{
+    max-width: 40%;
+}
+.m-50{
+    margin: 50px;
+}
+.m-25{
+    margin: 25px;
+}
